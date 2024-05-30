@@ -6,7 +6,7 @@ File: Licence
 Author: OS Templates
 Author URI: https://www.os-templates.com/
 Licence URI: https://www.os-templates.com/template-terms
-Used Template link : (https://www.free-css.com/free-css-templates/page257/chershoee)
+#[Used Template link](https://www.free-css.com/free-css-templates/page257/chershoee)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
